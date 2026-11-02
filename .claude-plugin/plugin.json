@@ -1,0 +1,8 @@
+{
+  "name": "task-spec",
+  "description": "Turn a task description into a spec file: numbered parts, questions for the gaps instead of guesses, and acceptance criteria written before the code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mohamed Taher"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-skill-task-spec",
+  "description": "Single-skill marketplace for task-spec.",
+  "owner": {
+    "name": "Mohamed Taher"
+  },
+  "plugins": [
+    {
+      "name": "task-spec",
+      "description": "Turn a task description into a spec file: numbered parts, questions for the gaps instead of guesses, and acceptance criteria written before the code.",
+      "author": {
+        "name": "Mohamed Taher"
+      },
+      "category": "productivity",
+      "source": "./",
+      "homepage": "https://github.com/hammoda711/claude-skill-task-spec"
+    }
+  ]
+}
