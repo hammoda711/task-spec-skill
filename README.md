@@ -7,8 +7,8 @@ It splits the description into numbered rules, asks you about the gaps instead o
 ## Install
 
 ```
-/plugin marketplace add hammoda711/claude-skill-task-spec
-/plugin install task-spec@claude-skill-task-spec
+/plugin marketplace add hammoda711/task-spec-skill
+/plugin install task-spec@task-spec-skill
 ```
 
 ## Use

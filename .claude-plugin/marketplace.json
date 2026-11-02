@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-skill-task-spec",
+  "name": "task-spec-skill",
   "description": "Single-skill marketplace for task-spec.",
   "owner": {
     "name": "Mohamed Taher"
@@ -14,7 +14,7 @@
       },
       "category": "productivity",
       "source": "./",
-      "homepage": "https://github.com/hammoda711/claude-skill-task-spec"
+      "homepage": "https://github.com/hammoda711/task-spec-skill"
     }
   ]
 }
